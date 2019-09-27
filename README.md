@@ -4,20 +4,18 @@
 
 an electronic mailing lists tool in PHP and SQLite
 
-## Getting Started
-
 For all user who don't have server access
 
-### Prerequisites
+## Prerequisites
 
 Just webspace with PHP and a mail account
 
 
-### Installing
+## Installing
 ```
 copy, config, concatenate
 ```
-### Built With
+## Built With
 
 * [Object - oriented IMAP for PHP ](http://github.com/ddeboer/imap) - Fetch mails
 * [PHPMailer - The classic email sending library for PHP](https://github.com/PHPMailer) - Send mails
