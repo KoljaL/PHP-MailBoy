@@ -2,7 +2,7 @@
 
 # PHP-MailBoy
 
-An electronic mailing lists tool in PHP and SQLite - For all user who don't have server access
+An electronic mailing lists tool in PHP and SQLite for all users who don't have server access
 
 ## Prerequisites
 
