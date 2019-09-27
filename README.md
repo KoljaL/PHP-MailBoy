@@ -1,4 +1,4 @@
-<----- under development ----->
+(^_^)/ ¯¯¯¯¯¯¯¯¯¯¯¯ under development ¯¯¯¯¯¯¯¯¯¯¯¯\
 
 # PHP-MailBoy
 
