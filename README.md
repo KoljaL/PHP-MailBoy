@@ -1,3 +1,5 @@
+<----- under development ----->
+
 # PHP-MailBoy
 
 an electronic mailing lists tool in PHP and SQLite
